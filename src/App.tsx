@@ -33,7 +33,6 @@ export class App extends React.Component<{}, State> {
             The last pressed key is {`[${pressedKey}]`}
           </p>
         )}
-        ;
       </div>
     );
   }
